@@ -92,3 +92,30 @@ background-color: white;
   font-size: x-small;
   display: inline;
 }
+
+#me h1{
+  text-align: center;
+  padding: 50px;
+}
+.img-f{
+  height: 130px;
+}
+#footer{
+  background-color: #282531;
+}
+.last-text{
+  color: #F8FFFB;
+  padding: 30px 50px;
+}
+
+ul li{
+  list-style-type: none;
+}
+
+footer{
+  text-align: center;
+  color: #FFFFFF;
+  padding-bottom: 10px;
+}
+
+
